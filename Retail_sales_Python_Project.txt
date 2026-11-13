@@ -1,0 +1,35 @@
+Retail Sales Data Analysis Using Python
+
+Project Description
+
+A retail sales data analysis project using Python to identify business performance, product profitability, customer behavior, and monthly sales trends.
+
+Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+
+Dataset
+
+Retail Sales Dataset – 150 Records.
+
+Project Features
+
+1. Dataset Loading
+2. Data Quality Check
+3. Business Performance Analysis
+4. Product Analysis
+5. Customer Analysis
+6. Monthly Sales Analysis
+7. Data Visualization
+8. Business Insights
+9. Business Recommendations
+
+Main Python File
+
+Retail_Sales_Analysis.py
+
+Project Purpose
+
+To demonstrate practical Python data analytics skills and generate meaningful business insights from retail sales data.
